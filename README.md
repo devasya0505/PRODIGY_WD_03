@@ -12,8 +12,6 @@ Features:
 <br>
 Two-player mode: Play against another person.
 <br>
-AI opponent: Play against a computer-controlled opponent.
-<br>
 Winning conditions: Automatically checks for and announces the winner.
 <br>
 Reset game: Restart the game to play again.
